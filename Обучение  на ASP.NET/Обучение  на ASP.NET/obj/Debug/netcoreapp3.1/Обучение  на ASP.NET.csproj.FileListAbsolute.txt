@@ -1,0 +1,20 @@
+C:\Users\My PC\Documents\Мои программы\Обучение  на ASP.NET\Обучение  на ASP.NET\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\My PC\Documents\Мои программы\Обучение  на ASP.NET\Обучение  на ASP.NET\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\My PC\Documents\Мои программы\Обучение  на ASP.NET\Обучение  на ASP.NET\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\My PC\Documents\Мои программы\Обучение  на ASP.NET\Обучение  на ASP.NET\bin\Debug\netcoreapp3.1\Обучение  на ASP.NET.exe
+C:\Users\My PC\Documents\Мои программы\Обучение  на ASP.NET\Обучение  на ASP.NET\bin\Debug\netcoreapp3.1\Обучение  на ASP.NET.deps.json
+C:\Users\My PC\Documents\Мои программы\Обучение  на ASP.NET\Обучение  на ASP.NET\bin\Debug\netcoreapp3.1\Обучение  на ASP.NET.runtimeconfig.json
+C:\Users\My PC\Documents\Мои программы\Обучение  на ASP.NET\Обучение  на ASP.NET\bin\Debug\netcoreapp3.1\Обучение  на ASP.NET.runtimeconfig.dev.json
+C:\Users\My PC\Documents\Мои программы\Обучение  на ASP.NET\Обучение  на ASP.NET\bin\Debug\netcoreapp3.1\Обучение  на ASP.NET.dll
+C:\Users\My PC\Documents\Мои программы\Обучение  на ASP.NET\Обучение  на ASP.NET\bin\Debug\netcoreapp3.1\Обучение  на ASP.NET.pdb
+C:\Users\My PC\Documents\Мои программы\Обучение  на ASP.NET\Обучение  на ASP.NET\obj\Debug\netcoreapp3.1\Обучение  на ASP.NET.csprojAssemblyReference.cache
+C:\Users\My PC\Documents\Мои программы\Обучение  на ASP.NET\Обучение  на ASP.NET\obj\Debug\netcoreapp3.1\Обучение  на ASP.NET.AssemblyInfoInputs.cache
+C:\Users\My PC\Documents\Мои программы\Обучение  на ASP.NET\Обучение  на ASP.NET\obj\Debug\netcoreapp3.1\Обучение  на ASP.NET.AssemblyInfo.cs
+C:\Users\My PC\Documents\Мои программы\Обучение  на ASP.NET\Обучение  на ASP.NET\obj\Debug\netcoreapp3.1\Обучение  на ASP.NET.csproj.CoreCompileInputs.cache
+C:\Users\My PC\Documents\Мои программы\Обучение  на ASP.NET\Обучение  на ASP.NET\obj\Debug\netcoreapp3.1\Обучение  на ASP.NET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\My PC\Documents\Мои программы\Обучение  на ASP.NET\Обучение  на ASP.NET\obj\Debug\netcoreapp3.1\Обучение  на ASP.NET.RazorTargetAssemblyInfo.cache
+C:\Users\My PC\Documents\Мои программы\Обучение  на ASP.NET\Обучение  на ASP.NET\obj\Debug\netcoreapp3.1\staticwebassets\Обучение  на ASP.NET.StaticWebAssets.Manifest.cache
+C:\Users\My PC\Documents\Мои программы\Обучение  на ASP.NET\Обучение  на ASP.NET\obj\Debug\netcoreapp3.1\staticwebassets\Обучение  на ASP.NET.StaticWebAssets.xml
+C:\Users\My PC\Documents\Мои программы\Обучение  на ASP.NET\Обучение  на ASP.NET\obj\Debug\netcoreapp3.1\Обучение  на ASP.NET.dll
+C:\Users\My PC\Documents\Мои программы\Обучение  на ASP.NET\Обучение  на ASP.NET\obj\Debug\netcoreapp3.1\Обучение  на ASP.NET.pdb
+C:\Users\My PC\Documents\Мои программы\Обучение  на ASP.NET\Обучение  на ASP.NET\obj\Debug\netcoreapp3.1\Обучение  на ASP.NET.genruntimeconfig.cache
